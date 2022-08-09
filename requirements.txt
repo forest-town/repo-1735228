@@ -13,7 +13,7 @@ datasette-indieauth==1.0
 itsdangerous==1.1.0
 logzero==1.5.0
 lookatme==2.2.0
-lxml==4.6.1
+lxml==4.9.1
 matrix-synapse==1.19.0
 moin==1.9.10
 nanopb==0.3.0
